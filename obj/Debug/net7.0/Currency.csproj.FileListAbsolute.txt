@@ -1,0 +1,15 @@
+C:\dev\Currency\bin\Debug\net7.0\Currency.exe
+C:\dev\Currency\bin\Debug\net7.0\Currency.deps.json
+C:\dev\Currency\bin\Debug\net7.0\Currency.runtimeconfig.json
+C:\dev\Currency\bin\Debug\net7.0\Currency.dll
+C:\dev\Currency\bin\Debug\net7.0\Currency.pdb
+C:\dev\Currency\obj\Debug\net7.0\Currency.csproj.AssemblyReference.cache
+C:\dev\Currency\obj\Debug\net7.0\Currency.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Currency\obj\Debug\net7.0\Currency.AssemblyInfoInputs.cache
+C:\dev\Currency\obj\Debug\net7.0\Currency.AssemblyInfo.cs
+C:\dev\Currency\obj\Debug\net7.0\Currency.csproj.CoreCompileInputs.cache
+C:\dev\Currency\obj\Debug\net7.0\Currency.dll
+C:\dev\Currency\obj\Debug\net7.0\refint\Currency.dll
+C:\dev\Currency\obj\Debug\net7.0\Currency.pdb
+C:\dev\Currency\obj\Debug\net7.0\Currency.genruntimeconfig.cache
+C:\dev\Currency\obj\Debug\net7.0\ref\Currency.dll
